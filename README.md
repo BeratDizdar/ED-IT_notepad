@@ -1,1 +1,1 @@
-# ED-IT_notepad
+# ED-IT_notepad (Enhanced Development & Integration Tool)
